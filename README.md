@@ -38,6 +38,7 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 
 ## Podcast and video creation
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Open-source CLI and MCP toolkit for coding-agent-driven video composition, editing, captions, and rendering.
 - [Descript](https://www.descript.com/) - Edit audio and video by editing a transcript.
 - [Riverside](https://riverside.fm/) - Remote recording platform for podcasts, interviews, and video.
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for recording and live streaming.
