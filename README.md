@@ -56,6 +56,7 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 - [whisperwebui-transcript-utils](https://www.npmjs.com/package/whisperwebui-transcript-utils) - Dependency-free utilities for cleaning transcripts and generating SRT or VTT subtitles.
 - [Hugging Face Audio Models](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition) - Collection of automatic speech recognition models.
 - [Awesome README](https://github.com/matiassingers/awesome-readme) - Examples and guidance for creating useful README files.
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile regression QA for publishing, subscription, and account workflows, with CLI/MCP and retained evidence.
 
 ## How to suggest a tool
 
