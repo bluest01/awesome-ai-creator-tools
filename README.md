@@ -43,6 +43,7 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for recording and live streaming.
 - [CapCut](https://www.capcut.com/) - Video editor with captions, templates, and AI-assisted editing.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color, audio, and visual effects software.
+- [Orkas](https://orkas.ai/agents/video-studio/?source=gh_bluest) - VideoStudio plans and produces videos with captions inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
 
 ## Text and writing tools
 
