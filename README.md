@@ -42,6 +42,7 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 - [Riverside](https://riverside.fm/) - Remote recording platform for podcasts, interviews, and video.
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for recording and live streaming.
 - [CapCut](https://www.capcut.com/) - Video editor with captions, templates, and AI-assisted editing.
+- [ReelWorkshop](https://reelworkshop.com/) - Browser compilation maker: import/arrange/trim/preview your clips; export vertical 9:16 H.264. Edit free; finished export on Starter.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color, audio, and visual effects software.
 
 ## Text and writing tools
