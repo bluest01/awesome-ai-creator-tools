@@ -42,6 +42,8 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 - [Riverside](https://riverside.fm/) - Remote recording platform for podcasts, interviews, and video.
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for recording and live streaming.
 - [CapCut](https://www.capcut.com/) - Video editor with captions, templates, and AI-assisted editing.
+- [Cyanvid](https://cyanvid.com/?utm_source=bluest01-awesome-ai-creator-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=bluest01-awesome-ai-creator-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color, audio, and visual effects software.
 
 ## Text and writing tools
